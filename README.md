@@ -1,7 +1,7 @@
 # Ex.No:1a  			Study of Socket Programming
 
-## Developed by: DHARSHAN R
-## Register no: 212224230060
+## Developed by: Jude Clement Jose G
+## Register no: 212224230109
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
@@ -55,10 +55,10 @@ Socket programming finds applications in various domains, including web developm
 4.	Networked Games: Online multiplayer games rely on socket programming to facilitate communication between game clients and servers.
 5.	RPC mechanisms: which allow processes to execute code on a remote server, often use socket programming for communication.
 ## Program:
-Developed by: DHARSHAN R
+Developed by: Jude Clement Jose G
 
 
-Register no: 212224230060
+Register no: 212224230109
 
 ## Client:
 ```
