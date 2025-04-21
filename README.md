@@ -1,7 +1,7 @@
 # Ex.No:1a  			Study of Socket Programming
 
-## Developed by: Jude Clement Jose G
-## Register no: 212224230109
+## Developed by: Shreedhar Kumar K.J
+## Register no: 212224230265
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
